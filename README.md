@@ -1,31 +1,38 @@
 
-![Image of bitFlowers Logo](https://bit-flowers.com/images/1.png)
+![Image of bitFlowers Logo](https://bit-flowers.com/images/github_header.png)
 -----------------
 # *bitFlowers* (PETAL) 
 # The eGift Cryptocurrency
 -----------------
+### **Socials** 
 
+Main Website:
+https://bit-flowers.com/
 
-Crypto-city Page / Website
-https://www.crypto-city.com/bitflowers/wallet/
-
-
-Discord 
-
-
+Discord:
+https://discord.gg/nxGju4nMb3
 
 Github: 
-https://github.com/Crypto-city/bitFlowers
+https://github.com/bitFlowers-PETAL/bitFlowers
 
-Explorer:
-https://www.crypto-city.com/bitflowers/explorer/
+Explorers:
+https://explore.bit-flowers.com/
+https://explore2.bit-flowers.com/
 
+Twitter:
+https://twitter.com/eFlower_power
 
-Twitter
-https://twitter.com/Cryptocitycom
+Telegram:
+https://t.me/bitFlowers
 
+Facebook:
+https://www.facebook.com/bitflowersofficial
 
+Medium:
+https://medium.com/@iCryptony
 
+Reddit:
+http://reddit.com/r/bitFlowers/
 
 -----------------
 ### **To build on Linux (Ubuntu 18.04)** 
@@ -33,7 +40,7 @@ https://twitter.com/Cryptocitycom
 
 If you are unfamiliar with building a coin project from a github repo on a Linux virtual machine, this video below (click link) will guide you with this process. It is important to isolate a build environment on a virtual machine, so that the dependencies do not intefere with your primary OS. Once you have completed the guide, you can move on to the *bitFlowers* build process. 
 
-https://www.crypto-city.com/video/play/1282/how-to-install-ubuntu-18-04-on-virtualbox-with-guest-additions/
+https://www.youtube.com/watch?v=ThsxqznrgCw
 
 -----------------
 
@@ -69,7 +76,7 @@ sudo apt-get install build-essential libgl1-mesa-dev
 
 sudo apt install git
 
-git clone https://github.com/crypto-city/bitflowers
+git clone https://github.com/bitFlowers-PETAL/bitFlowers
 
 -----------------
 
@@ -105,7 +112,7 @@ sudo make -f makefile.unix USE_UPNP=1
 
 -----------------
 
-#### *inquiries: crypto-city.com
+#### *inquiries: info@bit-flowers.com
 
 -----------------
 
