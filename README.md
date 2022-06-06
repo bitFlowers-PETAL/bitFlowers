@@ -112,7 +112,7 @@ sudo make -f makefile.unix USE_UPNP=1
 
 -----------------
 
-#### *inquiries: info@bit-flowers.com
+#### *inquiries:* info@bit-flowers.com
 
 -----------------
 
