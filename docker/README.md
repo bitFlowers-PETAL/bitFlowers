@@ -2,9 +2,10 @@
 ### **Compilations Scripts**
 -----------------
 
-#### LinuxQT.sh
+#### **LinuxQT.sh**
+-----------------
 
-1. create a VM blank
+1. create a VM blank (min 30gb / 6gb RAM / 10 cores)
 2. sudo rm /var/lib/apt/lists/lock && sudo rm /var/cache/apt/archives/lock && sudo rm /var/lib/dpkg/lock*
 3. sudo apt-get install git -y
 4. git clone https://github.com/bitFlowers-PETAL/bitFlowers
@@ -14,9 +15,12 @@
 8. Option 1
 9. cd bitFlowers/
 
-#### Windows32.sh
+-----------------
 
-1. create a VM blank
+#### **Windows32.sh**
+-----------------
+
+1. create a VM blank (min 30gb / 6gb RAM / 10 cores)
 2. sudo rm /var/lib/apt/lists/lock && sudo rm /var/cache/apt/archives/lock && sudo rm /var/lib/dpkg/lock*
 3. sudo apt-get install git -y
 4. git clone https://github.com/bitFlowers-PETAL/bitFlowers
@@ -27,9 +31,12 @@
 9. cd bitFlowers/
 10. chmod 777 bitFlowers-qt.exe
 
-#### Windows64.sh
+-----------------
 
-1. create a VM blank
+#### **Windows64.sh**
+-----------------
+
+1. create a VM blank (min 30gb / 6gb RAM / 10 cores)
 2. sudo rm /var/lib/apt/lists/lock && sudo rm /var/cache/apt/archives/lock && sudo rm /var/lib/dpkg/lock*
 3. sudo apt-get install git -y
 4. git clone https://github.com/bitFlowers-PETAL/bitFlowers
@@ -39,4 +46,6 @@
 8. Option 3
 9. cd bitFlowers/
 10. chmod 777 bitFlowers-qt.exe
+
+-----------------
 
